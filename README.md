@@ -28,3 +28,7 @@ So startest du das Projekt lokal auf deinem Rechner:
 - Downloade alle Dateien
 - Füre die Index.html Datei aus und sieh dir die Seite an
 - Änder alle Dateien für deine Verhältnisse
+
+## Weiterverkauf
+
+- Der Weiterverkauf sowie das weiterveröffentlichen ist untersagt!
